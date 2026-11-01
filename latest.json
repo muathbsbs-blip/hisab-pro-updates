@@ -1,13 +1,13 @@
 {
- "version": "4.2.0",
- "file": "hisab-app-4.2.0.json.gz",
- "sha256": "d44d7f52de2b082749b44b4e9806cae667781ca9b0b9b352781bd15d57059c12",
- "size": 285697,
+ "version": "4.2.1",
+ "file": "hisab-app-4.2.1.json.gz",
+ "sha256": "10d87b84a2db14ed4d3d250a80c3e6c86774dc68c8858bcd343882b207a8b0b3",
+ "size": 285794,
  "minElectron": "44.0.0",
  "notes": {
-  "ar": "كفالة لكل صنف بالفاتورة، إرجاع وتبديل من الفاتورة فقط، وتحسينات على الصندوق",
-  "he": "אחריות לכל פריט, החזרה והחלפה רק מחשבונית, שיפורי קופה",
-  "en": "Per-item warranty, returns and exchanges only from the invoice, cash drawer fixes"
+  "ar": "الكاشير صار يقدر يعمل تبديل من الفاتورة",
+  "he": "הקופאי יכול לבצע החלפה מחשבונית",
+  "en": "Cashiers can now exchange items from an invoice"
  },
- "date": "2026-11-01T22:28:02.475Z"
+ "date": "2026-11-01T22:33:36.825Z"
 }
