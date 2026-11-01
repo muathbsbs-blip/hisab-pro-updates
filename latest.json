@@ -1,0 +1,13 @@
+{
+ "version": "4.1.0",
+ "file": "hisab-app-4.1.0.json.gz",
+ "sha256": "dff80d195a3181d39bdf4ea4bd92b988a1f36e393f23c21981880e1ce0e62ba8",
+ "size": 279972,
+ "minElectron": "44.0.0",
+ "notes": {
+  "ar": "تفعيل التحديث التلقائي",
+  "he": "הפעלת עדכון אוטומטי",
+  "en": "Automatic updates enabled"
+ },
+ "date": "2026-11-01T22:12:27.643Z"
+}
