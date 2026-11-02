@@ -1,13 +1,13 @@
 {
- "version": "4.2.3",
- "file": "hisab-app-4.2.3.json.gz",
- "sha256": "8c153a3f762a8d5de47a0654435a8d8c316c1a049e47682bc53d27c8b1880cb9",
- "size": 288665,
+ "version": "4.2.4",
+ "file": "hisab-app-4.2.4.json.gz",
+ "sha256": "528978c568c0b9e56e9d68a5ae80b69a123f3dd53d7fa3f56df65e41e9f06bd5",
+ "size": 289493,
  "minElectron": "44.0.0",
  "notes": {
-  "ar": "أكثر من باركود لنفس الصنف",
-  "he": "כמה ברקודים לאותו מוצר",
-  "en": "Several barcodes per item"
+  "ar": "استيراد Excel بيلاقي أسماء الأعمدة حتى لو الملف تقرير فيه عنوان وتاريخ",
+  "he": "ייבוא Excel מוצא את שורת הכותרות גם בדוח עם כותרת ותאריך",
+  "en": "Excel import finds the column names even in reports with a title and date"
  },
- "date": "2026-11-02T11:26:42.123Z"
+ "date": "2026-11-02T12:32:48.892Z"
 }
