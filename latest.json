@@ -1,13 +1,13 @@
 {
- "version": "4.2.5",
- "file": "hisab-app-4.2.5.json.gz",
- "sha256": "3945555305d5ef6125ad662c5e66695296e77eb47147cc002a717b32026228a9",
- "size": 289644,
+ "version": "4.3.0",
+ "file": "hisab-app-4.3.0.json.gz",
+ "sha256": "97a400ccb7e94277ac42f14c6efc6b16d858879b526edb1b79336eb58342abde",
+ "size": 298945,
  "minElectron": "44.0.0",
  "notes": {
-  "ar": "الاستيراد بيتعرف على الأعمدة حتى لو مكتوبة بـ ه بدل ة",
-  "he": "הייבוא מזהה עמודות גם בכתיב ערבי שונה",
-  "en": "Import recognises columns written with different Arabic spellings"
+  "ar": "شاشة فاتورة جديدة، وصل 80mm، شعار وخلفية، الفيزا لأي بنك، نسبة ربح لكل صنف، كود رأس المال",
+  "he": "מסך חשבונית חדש, קבלה 80 מ\"מ, לוגו ורקע, אשראי לפי בנק, אחוז רווח לפריט, קוד מחיר עלות",
+  "en": "New invoice screen, 80mm receipt, logo and background, card payments per bank, margin per item, cost code"
  },
- "date": "2026-11-02T18:22:10.901Z"
+ "date": "2026-11-02T23:38:55.544Z"
 }
