@@ -1,13 +1,13 @@
 {
- "version": "4.2.2",
- "file": "hisab-app-4.2.2.json.gz",
- "sha256": "2721d61b6d0bf795cba3c7b771464e7a2d59371282d4983bc9132b34dc82b63c",
- "size": 287945,
+ "version": "4.2.3",
+ "file": "hisab-app-4.2.3.json.gz",
+ "sha256": "8c153a3f762a8d5de47a0654435a8d8c316c1a049e47682bc53d27c8b1880cb9",
+ "size": 288665,
  "minElectron": "44.0.0",
  "notes": {
-  "ar": "إضافة كمية: صار يسألك كيف دفعت (كاش من الدرج، فيزا، تحويل، شيك، أو دين للمورد)",
-  "he": "הוספת מלאי: שואל איך שילמת (מזומן מהמגירה, אשראי, העברה, צ'ק או חוב לספק)",
-  "en": "Add stock now asks how you paid (cash from the drawer, card, transfer, cheque or supplier debt)"
+  "ar": "أكثر من باركود لنفس الصنف",
+  "he": "כמה ברקודים לאותו מוצר",
+  "en": "Several barcodes per item"
  },
- "date": "2026-11-01T22:55:36.695Z"
+ "date": "2026-11-02T11:26:42.123Z"
 }
