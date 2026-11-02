@@ -1,13 +1,13 @@
 {
- "version": "4.2.4",
- "file": "hisab-app-4.2.4.json.gz",
- "sha256": "528978c568c0b9e56e9d68a5ae80b69a123f3dd53d7fa3f56df65e41e9f06bd5",
- "size": 289493,
+ "version": "4.2.5",
+ "file": "hisab-app-4.2.5.json.gz",
+ "sha256": "3945555305d5ef6125ad662c5e66695296e77eb47147cc002a717b32026228a9",
+ "size": 289644,
  "minElectron": "44.0.0",
  "notes": {
-  "ar": "استيراد Excel بيلاقي أسماء الأعمدة حتى لو الملف تقرير فيه عنوان وتاريخ",
-  "he": "ייבוא Excel מוצא את שורת הכותרות גם בדוח עם כותרת ותאריך",
-  "en": "Excel import finds the column names even in reports with a title and date"
+  "ar": "الاستيراد بيتعرف على الأعمدة حتى لو مكتوبة بـ ه بدل ة",
+  "he": "הייבוא מזהה עמודות גם בכתיב ערבי שונה",
+  "en": "Import recognises columns written with different Arabic spellings"
  },
- "date": "2026-11-02T12:32:48.892Z"
+ "date": "2026-11-02T18:22:10.901Z"
 }
