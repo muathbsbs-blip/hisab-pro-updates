@@ -1,13 +1,13 @@
 {
- "version": "4.3.0",
- "file": "hisab-app-4.3.0.json.gz",
- "sha256": "97a400ccb7e94277ac42f14c6efc6b16d858879b526edb1b79336eb58342abde",
- "size": 298945,
+ "version": "4.3.1",
+ "file": "hisab-app-4.3.1.json.gz",
+ "sha256": "9c151cb5670eb1853c2c9187d4fc67df7612987083af46d8aa9a4b215a94fdb6",
+ "size": 299893,
  "minElectron": "44.0.0",
  "notes": {
-  "ar": "شاشة فاتورة جديدة، وصل 80mm، شعار وخلفية، الفيزا لأي بنك، نسبة ربح لكل صنف، كود رأس المال",
-  "he": "מסך חשבונית חדש, קבלה 80 מ\"מ, לוגו ורקע, אשראי לפי בנק, אחוז רווח לפריט, קוד מחיר עלות",
-  "en": "New invoice screen, 80mm receipt, logo and background, card payments per bank, margin per item, cost code"
+  "ar": "صلاحية إدخال بضاعة للموظف بدون كلمة سر المدير",
+  "he": "הרשאת הכנסת סחורה לעובד בלי סיסמת מנהל",
+  "en": "Stock-entry permission for staff without the owner password"
  },
- "date": "2026-11-02T23:38:55.544Z"
+ "date": "2026-11-02T23:53:23.822Z"
 }
