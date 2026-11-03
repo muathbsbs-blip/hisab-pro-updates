@@ -1,13 +1,13 @@
 {
- "version": "4.3.1",
- "file": "hisab-app-4.3.1.json.gz",
- "sha256": "9c151cb5670eb1853c2c9187d4fc67df7612987083af46d8aa9a4b215a94fdb6",
- "size": 299893,
+ "version": "4.3.2",
+ "file": "hisab-app-4.3.2.json.gz",
+ "sha256": "70ffc4e023919f3e41e29037848100ce74d35a7935208108181ddf85fff95bfc",
+ "size": 304179,
  "minElectron": "44.0.0",
  "notes": {
-  "ar": "صلاحية إدخال بضاعة للموظف بدون كلمة سر المدير",
-  "he": "הרשאת הכנסת סחורה לעובד בלי סיסמת מנהל",
-  "en": "Stock-entry permission for staff without the owner password"
+  "ar": "فتح الجارور (F8 أو زر)، وطباعة مباشرة على طابعة الوصولات بدون نافذة",
+  "he": "פתיחת מגירה (F8 או כפתור) והדפסה ישירה למדפסת הקבלות",
+  "en": "Open the cash drawer (F8 or button) and print straight to the receipt printer"
  },
- "date": "2026-11-02T23:53:23.822Z"
+ "date": "2026-11-03T00:00:16.659Z"
 }
