@@ -1,13 +1,13 @@
 {
- "version": "4.3.5",
- "file": "hisab-app-4.3.5.json.gz",
- "sha256": "2c7b881085ed96077ca7fc2408012f7afa8102194b823ee6a2f4aa73bec14b62",
- "size": 307508,
+ "version": "4.3.6",
+ "file": "hisab-app-4.3.6.json.gz",
+ "sha256": "8553677ebe27df612489aab3c374398c4fd92a0d1c8e72f1beecf1b5312c0d02",
+ "size": 310265,
  "minElectron": "44.0.0",
  "notes": {
-  "ar": "الوصل بينقص على قده بالزبط — بدون ورق زيادة ولا طباعة مرتين",
-  "he": "הקבלה נחתכת בדיוק בגודלה — בלי נייר מיותר ובלי הדפסה כפולה",
-  "en": "Receipts cut to their exact length — no extra paper, no double printing"
+  "ar": "طباعة مباشرة على طابعة الكاشير (ESC/POS) للطابعات اللي بتطلع ورقة فاضية",
+  "he": "הדפסה ישירה למדפסת קופה (ESC/POS) למדפסות שמוציאות דף ריק",
+  "en": "Direct ESC/POS receipt printing for printers that give empty pages"
  },
- "date": "2026-11-04T19:12:12.318Z"
+ "date": "2026-11-04T19:46:38.496Z"
 }
