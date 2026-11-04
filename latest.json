@@ -1,13 +1,13 @@
 {
- "version": "4.3.4",
- "file": "hisab-app-4.3.4.json.gz",
- "sha256": "cf7c4ca83a9caeed49962680ab12697ba5e8385a9655906bb253326bb7a9cdaf",
- "size": 306981,
+ "version": "4.3.5",
+ "file": "hisab-app-4.3.5.json.gz",
+ "sha256": "2c7b881085ed96077ca7fc2408012f7afa8102194b823ee6a2f4aa73bec14b62",
+ "size": 307508,
  "minElectron": "44.0.0",
  "notes": {
-  "ar": "طباعة مباشرة بطريقة جديدة (بتصلح الورقة الفاضية)، وزر طباعة تجربة",
-  "he": "הדפסה ישירה בשיטה חדשה (מתקנת דף ריק) וכפתור הדפסת ניסיון",
-  "en": "New direct printing method (fixes empty pages) and a test print button"
+  "ar": "الوصل بينقص على قده بالزبط — بدون ورق زيادة ولا طباعة مرتين",
+  "he": "הקבלה נחתכת בדיוק בגודלה — בלי נייר מיותר ובלי הדפסה כפולה",
+  "en": "Receipts cut to their exact length — no extra paper, no double printing"
  },
- "date": "2026-11-04T19:05:27.333Z"
+ "date": "2026-11-04T19:12:12.318Z"
 }
