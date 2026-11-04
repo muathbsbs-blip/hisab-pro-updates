@@ -1,13 +1,13 @@
 {
- "version": "4.3.3",
- "file": "hisab-app-4.3.3.json.gz",
- "sha256": "441d8c0c4da98e711a6b2352a5856a092692625a4b59bbb9c52264db2838d16c",
- "size": 304643,
+ "version": "4.3.4",
+ "file": "hisab-app-4.3.4.json.gz",
+ "sha256": "cf7c4ca83a9caeed49962680ab12697ba5e8385a9655906bb253326bb7a9cdaf",
+ "size": 306981,
  "minElectron": "44.0.0",
  "notes": {
-  "ar": "إصلاح طباعة الوصل 80mm: بيطلع كامل على صفحة وحدة وبخط أسود واضح",
-  "he": "תיקון הדפסת קבלה 80 מ\"מ: מלאה בעמוד אחד ובשחור ברור",
-  "en": "Fixed 80mm receipt printing: complete on one page, clear black text"
+  "ar": "طباعة مباشرة بطريقة جديدة (بتصلح الورقة الفاضية)، وزر طباعة تجربة",
+  "he": "הדפסה ישירה בשיטה חדשה (מתקנת דף ריק) וכפתור הדפסת ניסיון",
+  "en": "New direct printing method (fixes empty pages) and a test print button"
  },
- "date": "2026-11-04T18:55:11.202Z"
+ "date": "2026-11-04T19:05:27.333Z"
 }
