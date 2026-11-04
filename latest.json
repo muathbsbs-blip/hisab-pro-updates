@@ -1,13 +1,13 @@
 {
- "version": "4.3.2",
- "file": "hisab-app-4.3.2.json.gz",
- "sha256": "70ffc4e023919f3e41e29037848100ce74d35a7935208108181ddf85fff95bfc",
- "size": 304179,
+ "version": "4.3.3",
+ "file": "hisab-app-4.3.3.json.gz",
+ "sha256": "441d8c0c4da98e711a6b2352a5856a092692625a4b59bbb9c52264db2838d16c",
+ "size": 304643,
  "minElectron": "44.0.0",
  "notes": {
-  "ar": "فتح الجارور (F8 أو زر)، وطباعة مباشرة على طابعة الوصولات بدون نافذة",
-  "he": "פתיחת מגירה (F8 או כפתור) והדפסה ישירה למדפסת הקבלות",
-  "en": "Open the cash drawer (F8 or button) and print straight to the receipt printer"
+  "ar": "إصلاح طباعة الوصل 80mm: بيطلع كامل على صفحة وحدة وبخط أسود واضح",
+  "he": "תיקון הדפסת קבלה 80 מ\"מ: מלאה בעמוד אחד ובשחור ברור",
+  "en": "Fixed 80mm receipt printing: complete on one page, clear black text"
  },
- "date": "2026-11-03T00:00:16.659Z"
+ "date": "2026-11-04T18:55:11.202Z"
 }
