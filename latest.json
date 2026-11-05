@@ -1,13 +1,13 @@
 {
- "version": "4.3.6",
- "file": "hisab-app-4.3.6.json.gz",
- "sha256": "8553677ebe27df612489aab3c374398c4fd92a0d1c8e72f1beecf1b5312c0d02",
- "size": 310265,
+ "version": "4.3.7",
+ "file": "hisab-app-4.3.7.json.gz",
+ "sha256": "21ea3680313402e2187a3849aa311659dcbb4a9ac8bccee38c29b37424856321",
+ "size": 310326,
  "minElectron": "44.0.0",
  "notes": {
-  "ar": "طباعة مباشرة على طابعة الكاشير (ESC/POS) للطابعات اللي بتطلع ورقة فاضية",
-  "he": "הדפסה ישירה למדפסת קופה (ESC/POS) למדפסות שמוציאות דף ריק",
-  "en": "Direct ESC/POS receipt printing for printers that give empty pages"
+  "ar": "دفع بتحويل بنكي بالفاتورة مع اختيار البنك",
+  "he": "תשלום בהעברה בנקאית בחשבונית עם בחירת הבנק",
+  "en": "Bank transfer payment on invoices with a choice of bank"
  },
- "date": "2026-11-04T19:46:38.496Z"
+ "date": "2026-11-05T06:41:11.084Z"
 }
