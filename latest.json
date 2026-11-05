@@ -1,13 +1,13 @@
 {
- "version": "4.3.10",
- "file": "hisab-app-4.3.10.json.gz",
- "sha256": "f587fb70d804f7a09835e549037d9e6cf483d2052366efd334b4206fec8b3083",
- "size": 315499,
+ "version": "4.3.11",
+ "file": "hisab-app-4.3.11.json.gz",
+ "sha256": "1f4ca4bb173a1b2060d1f49552b524c2c0554e92cf9d5222806e180b0407a9fe",
+ "size": 315797,
  "minElectron": "44.0.0",
  "notes": {
-  "ar": "تعليق الفواتير: علّق الفاتورة وافتح جديدة، وارجعلها من فوق بأي وقت",
-  "he": "השהיית חשבוניות: השהה חשבונית, פתח חדשה וחזור אליה מלמעלה בכל זמן",
-  "en": "Hold invoices: put an invoice on hold, start a new one, and go back to it from the top any time"
+  "ar": "طباعة الوصل المباشرة (ESC/POS): الشعار والصور بتطلع واضحة",
+  "he": "הדפסת קבלה ישירה (ESC/POS): לוגו ותמונות יוצאים ברורים",
+  "en": "Direct receipt printing (ESC/POS): logo and pictures print clearly"
  },
- "date": "2026-11-05T08:31:53.539Z"
+ "date": "2026-11-05T09:02:13.610Z"
 }
