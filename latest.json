@@ -1,13 +1,13 @@
 {
- "version": "4.3.9",
- "file": "hisab-app-4.3.9.json.gz",
- "sha256": "0ee5184d0f22d631b96f90b02eff98ef84ae4d88deeba0cd9d7a1019f1b0b704",
- "size": 314348,
+ "version": "4.3.10",
+ "file": "hisab-app-4.3.10.json.gz",
+ "sha256": "f587fb70d804f7a09835e549037d9e6cf483d2052366efd334b4206fec8b3083",
+ "size": 315499,
  "minElectron": "44.0.0",
  "notes": {
-  "ar": "الفاتورة ما بتروح إذا طلعت منها: بتنحفظ كمسودة وبترجعلك لما تفتح فاتورة جديدة",
-  "he": "חשבונית שלא נשמרה לא אובדת: נשמרת כטיוטה וחוזרת בפתיחת חשבונית חדשה",
-  "en": "An unsaved invoice is no longer lost: it is kept as a draft and comes back on the next new invoice"
+  "ar": "تعليق الفواتير: علّق الفاتورة وافتح جديدة، وارجعلها من فوق بأي وقت",
+  "he": "השהיית חשבוניות: השהה חשבונית, פתח חדשה וחזור אליה מלמעלה בכל זמן",
+  "en": "Hold invoices: put an invoice on hold, start a new one, and go back to it from the top any time"
  },
- "date": "2026-11-05T08:22:54.079Z"
+ "date": "2026-11-05T08:31:53.539Z"
 }
