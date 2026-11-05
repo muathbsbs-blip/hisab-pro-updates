@@ -1,13 +1,13 @@
 {
- "version": "4.3.11",
- "file": "hisab-app-4.3.11.json.gz",
- "sha256": "1f4ca4bb173a1b2060d1f49552b524c2c0554e92cf9d5222806e180b0407a9fe",
- "size": 315797,
+ "version": "4.3.12",
+ "file": "hisab-app-4.3.12.json.gz",
+ "sha256": "57b553d3ff8a5e61578850b70ca28b7b214c95a2d39fe7277760053ee00423a7",
+ "size": 316214,
  "minElectron": "44.0.0",
  "notes": {
-  "ar": "طباعة الوصل المباشرة (ESC/POS): الشعار والصور بتطلع واضحة",
-  "he": "הדפסת קבלה ישירה (ESC/POS): לוגו ותמונות יוצאים ברורים",
-  "en": "Direct receipt printing (ESC/POS): logo and pictures print clearly"
+  "ar": "إصلاح الطباعة المباشرة: الكتابة بتطلع كاملة وواضحة",
+  "he": "תיקון הדפסה ישירה: הטקסט יוצא מלא וברור",
+  "en": "Direct printing fix: text prints complete and clear"
  },
- "date": "2026-11-05T09:02:13.610Z"
+ "date": "2026-11-05T18:01:31.502Z"
 }
