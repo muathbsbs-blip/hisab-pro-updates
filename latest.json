@@ -1,13 +1,13 @@
 {
- "version": "4.3.8",
- "file": "hisab-app-4.3.8.json.gz",
- "sha256": "e5567852fa6300d3dc3eee5914d6e342e8368c1f4a43f0d47efe8377be54c17c",
- "size": 311762,
+ "version": "4.3.9",
+ "file": "hisab-app-4.3.9.json.gz",
+ "sha256": "0ee5184d0f22d631b96f90b02eff98ef84ae4d88deeba0cd9d7a1019f1b0b704",
+ "size": 314348,
  "minElectron": "44.0.0",
  "notes": {
-  "ar": "ماكنات الفيزا: بتختار أي ماكنة بالفاتورة، وكل ماكنة على بنكها",
-  "he": "מסופי אשראי: בחירת מסוף בחשבונית, כל מסוף לבנק שלו",
-  "en": "Card machines: choose the machine on the invoice, each paying into its bank"
+  "ar": "الفاتورة ما بتروح إذا طلعت منها: بتنحفظ كمسودة وبترجعلك لما تفتح فاتورة جديدة",
+  "he": "חשבונית שלא נשמרה לא אובדת: נשמרת כטיוטה וחוזרת בפתיחת חשבונית חדשה",
+  "en": "An unsaved invoice is no longer lost: it is kept as a draft and comes back on the next new invoice"
  },
- "date": "2026-11-05T06:47:51.698Z"
+ "date": "2026-11-05T08:22:54.079Z"
 }
