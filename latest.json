@@ -1,13 +1,13 @@
 {
- "version": "4.3.12",
- "file": "hisab-app-4.3.12.json.gz",
- "sha256": "57b553d3ff8a5e61578850b70ca28b7b214c95a2d39fe7277760053ee00423a7",
- "size": 316214,
+ "version": "4.3.13",
+ "file": "hisab-app-4.3.13.json.gz",
+ "sha256": "8100c609704abb11a595453784949273e37edee55734d088ea958fbf4e5f4c59",
+ "size": 316317,
  "minElectron": "44.0.0",
  "notes": {
-  "ar": "إصلاح الطباعة المباشرة: الكتابة بتطلع كاملة وواضحة",
-  "he": "תיקון הדפסה ישירה: הטקסט יוצא מלא וברור",
-  "en": "Direct printing fix: text prints complete and clear"
+  "ar": "سطر الضريبة بيطلع بالوصل حتى لو الضريبة صفر",
+  "he": "שורת המע\"מ מופיעה בקבלה גם כשהוא אפס",
+  "en": "The tax line shows on the receipt even when tax is zero"
  },
- "date": "2026-11-05T18:01:31.502Z"
+ "date": "2026-11-08T13:12:15.215Z"
 }
