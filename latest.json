@@ -1,13 +1,13 @@
 {
- "version": "4.3.13",
- "file": "hisab-app-4.3.13.json.gz",
- "sha256": "8100c609704abb11a595453784949273e37edee55734d088ea958fbf4e5f4c59",
- "size": 316317,
+ "version": "4.3.14",
+ "file": "hisab-app-4.3.14.json.gz",
+ "sha256": "4ab8fc334eda011df3b7b4c95b9e6369edffe8ecc0fa093ac88f1ae0e8ab2412",
+ "size": 316555,
  "minElectron": "44.0.0",
  "notes": {
-  "ar": "سطر الضريبة بيطلع بالوصل حتى لو الضريبة صفر",
-  "he": "שורת המע\"מ מופיעה בקבלה גם כשהוא אפס",
-  "en": "The tax line shows on the receipt even when tax is zero"
+  "ar": "خيار جديد: الضريبة ما تنخصم من الربح بالتقارير",
+  "he": "אפשרות חדשה: לא לנכות מע\"מ מהרווח בדוחות",
+  "en": "New option: do not deduct tax from profit in reports"
  },
- "date": "2026-11-08T13:12:15.215Z"
+ "date": "2026-11-08T13:16:33.340Z"
 }
