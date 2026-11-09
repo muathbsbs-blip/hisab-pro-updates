@@ -1,13 +1,13 @@
 {
- "version": "4.3.14",
- "file": "hisab-app-4.3.14.json.gz",
- "sha256": "4ab8fc334eda011df3b7b4c95b9e6369edffe8ecc0fa093ac88f1ae0e8ab2412",
- "size": 316555,
+ "version": "4.4.0",
+ "file": "hisab-app-4.4.0.json.gz",
+ "sha256": "9d85edfac8fea312f3d65155768287897634946576626e71ab32b7c6e9c50c9e",
+ "size": 345576,
  "minElectron": "44.0.0",
  "notes": {
-  "ar": "خيار جديد: الضريبة ما تنخصم من الربح بالتقارير",
-  "he": "אפשרות חדשה: לא לנכות מע\"מ מהרווח בדוחות",
-  "en": "New option: do not deduct tax from profit in reports"
+  "ar": "تحديث كبير: واتساب أوتوماتيك، تحليل المخزون (بضاعة ميتة واقتراح طلبية)، فحص IMEI وقائمة حظر، شاشة بيع جديدة، وكفالة بالأسابيع",
+  "he": "עדכון גדול: וואטסאפ אוטומטי, ניתוח מלאי (מלאי מת והצעת הזמנה), בדיקת IMEI ורשימת חסימה, מסך מכירה חדש ואחריות בשבועות",
+  "en": "Big update: automatic WhatsApp, stock insights (dead stock & order suggestion), IMEI check & block list, new sales screen, and warranty in weeks"
  },
- "date": "2026-11-08T13:16:33.340Z"
+ "date": "2026-11-09T00:25:42.036Z"
 }
