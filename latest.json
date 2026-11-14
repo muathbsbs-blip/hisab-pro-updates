@@ -1,13 +1,13 @@
 {
- "version": "4.4.0",
- "file": "hisab-app-4.4.0.json.gz",
- "sha256": "9d85edfac8fea312f3d65155768287897634946576626e71ab32b7c6e9c50c9e",
- "size": 345576,
+ "version": "4.5.0",
+ "file": "hisab-app-4.5.0.json.gz",
+ "sha256": "3d16db16b375ce06912a7eb139d894a84270b29448a2540b9b60a0f6e287510c",
+ "size": 365954,
  "minElectron": "44.0.0",
  "notes": {
-  "ar": "تحديث كبير: واتساب أوتوماتيك، تحليل المخزون (بضاعة ميتة واقتراح طلبية)، فحص IMEI وقائمة حظر، شاشة بيع جديدة، وكفالة بالأسابيع",
-  "he": "עדכון גדול: וואטסאפ אוטומטי, ניתוח מלאי (מלאי מת והצעת הזמנה), בדיקת IMEI ורשימת חסימה, מסך מכירה חדש ואחריות בשבועות",
-  "en": "Big update: automatic WhatsApp, stock insights (dead stock & order suggestion), IMEI check & block list, new sales screen, and warranty in weeks"
+  "ar": "عروض وكوبونات، مستحقات الموردين، الربح حسب الصنف والفئة، وملف الزبون الكامل",
+  "he": "מבצעים וקופונים, תשלומים לספקים, רווח לפי פריט וקטגוריה, וכרטיס לקוח מלא",
+  "en": "Promotions & coupons, supplier dues, profit by item & category, and a full customer profile"
  },
- "date": "2026-11-09T00:25:42.036Z"
+ "date": "2026-11-14T11:19:22.510Z"
 }
