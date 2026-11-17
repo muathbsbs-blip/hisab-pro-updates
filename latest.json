@@ -1,13 +1,13 @@
 {
- "version": "4.6.0",
- "file": "hisab-app-4.6.0.json.gz",
- "sha256": "787173f3994f455b0e8a4865d0fcdd5128f1a532c6f4cc75baa8f8227a3d0eb3",
- "size": 382307,
+ "version": "4.5.1",
+ "file": "hisab-app-4.5.1.json.gz",
+ "sha256": "f0412332968bb1fdace1027ad6dc44890c1273fb9abe1bdee7f9ab294a79b897",
+ "size": 366612,
  "minElectron": "44.0.0",
  "notes": {
-  "ar": "مين بيفتح وبيسكّر الكاش (أحمد / معاذ) برمز سري وتقرير لكل شخص، اسم البيّاع على الفاتورة، وتحسينات شاشة البيع: أزرار مثبّتة، اختصارات F2-F11، أزرار كاش سريعة، بحث الزبون برقم التلفون، حد خصم بموافقة المدير، تنبيه نقص المخزن، وإعادة طباعة آخر فاتورة",
-  "he": "מי פותח וסוגר את הקופה (אחמד / מועאז) עם קוד ודוח לכל אדם, שם המוכר בחשבונית, ושיפורי מסך מכירה: פריטים נעוצים, קיצורי F2-F11, כפתורי מזומן מהירים, חיפוש לקוח לפי טלפון, הגבלת הנחה באישור מנהל, התראת מלאי נמוך והדפסה חוזרת של החשבונית האחרונה",
-  "en": "Who opens and closes the drawer (Ahmad / Muath) with a PIN and a per-person report, the seller on each invoice, and sales-screen upgrades: pinned items, F2-F11 shortcuts, quick cash buttons, customer lookup by phone, discount limit with manager approval, low-stock alert and reprint of the last invoice"
+  "ar": "تسكيرة الوردية: اختيار مين استلم الكاش (معاذ أو أحمد)",
+  "he": "סגירת משמרת: בחירת מי קיבל את המזומן",
+  "en": "Shift close: choose who received the cash"
  },
- "date": "2026-11-14T11:49:13.000Z"
+ "date": "2026-11-17T10:26:34.397Z"
 }
