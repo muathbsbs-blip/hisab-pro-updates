@@ -1,13 +1,13 @@
 {
- "version": "4.6.0",
- "file": "hisab-app-4.6.0.json.gz",
- "sha256": "7e33bac3b5aeea00864b3370aaf6e173792e607a206f5263837dbcf5ffe80649",
- "size": 384638,
+ "version": "4.6.1",
+ "file": "hisab-app-4.6.1.json.gz",
+ "sha256": "5e5aaf4eb0ba622a34270f98cadbde3a071d871176c78094656edc9003806aee",
+ "size": 386086,
  "minElectron": "44.0.0",
  "notes": {
-  "ar": "البرنامج على الجوال: افتحه من الآيفون (بالمحل أو من برا عن طريق Tailscale)، وبيع واشتغل من التلفون",
-  "he": "התוכנה בטלפון: פתח מהאייפון (בחנות או מבחוץ דרך Tailscale) ועבוד מהטלפון",
-  "en": "The program on your phone: open it on the iPhone (in the shop, or anywhere through Tailscale) and work from the phone"
+  "ar": "من الجوال: حفظ + طباعة بيطبع الفاتورة على طابعة المحل",
+  "he": "מהטלפון: שמירה + הדפסה מדפיס בחנות",
+  "en": "From the phone: save + print prints at the shop printer"
  },
- "date": "2026-11-20T01:03:02.380Z"
+ "date": "2026-11-20T01:09:43.045Z"
 }
