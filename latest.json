@@ -1,13 +1,13 @@
 {
- "version": "4.5.3",
- "file": "hisab-app-4.5.3.json.gz",
- "sha256": "1e59d14f6d3edf499117498b419133a1c150d6eb16ed27f8e6d329608f839655",
- "size": 367514,
+ "version": "4.6.0",
+ "file": "hisab-app-4.6.0.json.gz",
+ "sha256": "7e33bac3b5aeea00864b3370aaf6e173792e607a206f5263837dbcf5ffe80649",
+ "size": 384638,
  "minElectron": "44.0.0",
  "notes": {
-  "ar": "لوحة التحكم: أرقام المبيعات مخبّاية، وبتنعرض بزر 👁",
-  "he": "לוח בקרה: מספרי המכירות מוסתרים ומוצגים בכפתור 👁",
-  "en": "Dashboard: sales numbers hidden, shown with 👁"
+  "ar": "البرنامج على الجوال: افتحه من الآيفون (بالمحل أو من برا عن طريق Tailscale)، وبيع واشتغل من التلفون",
+  "he": "התוכנה בטלפון: פתח מהאייפון (בחנות או מבחוץ דרך Tailscale) ועבוד מהטלפון",
+  "en": "The program on your phone: open it on the iPhone (in the shop, or anywhere through Tailscale) and work from the phone"
  },
- "date": "2026-11-17T11:01:56.725Z"
+ "date": "2026-11-20T01:03:02.380Z"
 }
