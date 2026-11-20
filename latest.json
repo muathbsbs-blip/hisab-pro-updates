@@ -1,13 +1,13 @@
 {
- "version": "4.6.1",
- "file": "hisab-app-4.6.1.json.gz",
- "sha256": "5e5aaf4eb0ba622a34270f98cadbde3a071d871176c78094656edc9003806aee",
- "size": 386086,
+ "version": "4.7.0",
+ "file": "hisab-app-4.7.0.json.gz",
+ "sha256": "6a2d5c4dd1a17dd3bb1c0cd431d6182d207aa66d488bcaa5eced17361ae53f3b",
+ "size": 393643,
  "minElectron": "44.0.0",
  "notes": {
-  "ar": "من الجوال: حفظ + طباعة بيطبع الفاتورة على طابعة المحل",
-  "he": "מהטלפון: שמירה + הדפסה מדפיס בחנות",
-  "en": "From the phone: save + print prints at the shop printer"
+  "ar": "تنبيهات للمالك على واتساب، وحدود لكل كاشير (خصم، سعر، إرجاع، جارور) بموافقة كلمة سرك",
+  "he": "התראות לבעלים בוואטסאפ, ומגבלות לכל קופאי באישור הסיסמה שלך",
+  "en": "Owner alerts on WhatsApp, and per-cashier limits approved with your password"
  },
- "date": "2026-11-20T01:09:43.045Z"
+ "date": "2026-11-20T01:20:42.034Z"
 }
