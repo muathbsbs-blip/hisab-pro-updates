@@ -1,13 +1,13 @@
 {
- "version": "5.0.0",
- "file": "hisab-app-5.0.0.json.gz",
- "sha256": "cace16d826942361429f9a62a09025181bf019aa8804690d1a3deaa3228e00da",
- "size": 418897,
+ "version": "5.1.0",
+ "file": "hisab-app-5.1.0.json.gz",
+ "sha256": "184dd67ee33eb896fe940a924830abd8ec2ab8ea3878f60f125c15e47818e7aa",
+ "size": 422521,
  "minElectron": "44.0.0",
  "notes": {
-  "ar": "رصيد للزبون وبطاقات هدية، جرد يومي صغير، رسالة بعد البيع مع رابط التقييم، وشاشة بيع مرتبة أكثر",
-  "he": "יתרת לקוח וכרטיסי מתנה, ספירה יומית, הודעה אחרי מכירה עם קישור לדירוג, ומסך מכירה מסודר יותר",
-  "en": "Customer credit & gift cards, a small daily count, a message after the sale with a review link, and a tidier sales screen"
+  "ar": "واجهة بيع عصرية: شاشة كاملة، سلة بأزرار + و −، زر «ادفع واطبع» كبير مع المبلغ، مربعات أصناف أنظف + تصليح بخانة الخصومات بالتقارير",
+  "he": "מסך מכירה מודרני: מסך מלא, סל עם + ו־−, כפתור «שלם והדפס» גדול, אריחי פריטים נקיים + תיקון בשורת ההנחות בדוחות",
+  "en": "Modern sales screen: full screen, cart with + / − steppers, big Pay & print button with the amount, cleaner item tiles + fix in report discounts"
  },
- "date": "2026-11-22T00:26:41.058Z"
+ "date": "2026-11-22T23:04:12.993Z"
 }
