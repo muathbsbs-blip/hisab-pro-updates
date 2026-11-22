@@ -1,13 +1,13 @@
 {
- "version": "4.9.0",
- "file": "hisab-app-4.9.0.json.gz",
- "sha256": "832303477ee63b5398e93d2016a2142775f73c7a1faa2845e244e165998ff9e3",
- "size": 405779,
+ "version": "5.0.0",
+ "file": "hisab-app-5.0.0.json.gz",
+ "sha256": "cace16d826942361429f9a62a09025181bf019aa8804690d1a3deaa3228e00da",
+ "size": 418897,
  "minElectron": "44.0.0",
  "notes": {
-  "ar": "الكاش بالصور (أوراق وفراطة) مع الباقي للزبون، وتعديل الفاتورة بعد الحفظ",
-  "he": "מזומן בתמונות (שטרות ומטבעות) עם העודף, ועריכת חשבונית אחרי שמירה",
-  "en": "Cash as pictures (notes & coins) with change, and editing an invoice after saving"
+  "ar": "رصيد للزبون وبطاقات هدية، جرد يومي صغير، رسالة بعد البيع مع رابط التقييم، وشاشة بيع مرتبة أكثر",
+  "he": "יתרת לקוח וכרטיסי מתנה, ספירה יומית, הודעה אחרי מכירה עם קישור לדירוג, ומסך מכירה מסודר יותר",
+  "en": "Customer credit & gift cards, a small daily count, a message after the sale with a review link, and a tidier sales screen"
  },
- "date": "2026-11-21T23:42:06.834Z"
+ "date": "2026-11-22T00:26:41.058Z"
 }
