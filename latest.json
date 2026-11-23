@@ -1,13 +1,13 @@
 {
- "version": "5.3.1",
- "file": "hisab-app-5.3.1.json.gz",
- "sha256": "12c41f4d2f6e96541937257bab757cc58b8f17b0bca359d34cbc54f5349d29ae",
- "size": 426527,
+ "version": "5.3.2",
+ "file": "hisab-app-5.3.2.json.gz",
+ "sha256": "75e2231f8d01d76b822edc6675c761bd7784435b9a77e7408c3d118f15c88456",
+ "size": 427204,
  "minElectron": "44.0.0",
  "notes": {
-  "ar": "لوحة التحكم: «فيزا لم تصل للبنك بعد» صارت مفروزة لكل بنك",
-  "he": "לוח הבקרה: «ויזה שטרם הגיעה לבנק» מחולקת לפי בנק",
-  "en": "Dashboard: 'Visa not yet in the bank' split per bank"
+  "ar": "إعداد جديد: أرقام لوحة التحكم — مخبّاية بزر 👁، أو مخبّاية بالمرة، أو ظاهرة دايماً",
+  "he": "הגדרה חדשה: מספרי לוח הבקרה — מוסתרים עם 👁, מוסתרים לגמרי או תמיד מוצגים",
+  "en": "New setting: dashboard numbers — hidden with 👁, hidden completely, or always shown"
  },
- "date": "2026-11-23T17:57:12.727Z"
+ "date": "2026-11-23T18:03:13.629Z"
 }
