@@ -1,13 +1,13 @@
 {
- "version": "5.1.0",
- "file": "hisab-app-5.1.0.json.gz",
- "sha256": "184dd67ee33eb896fe940a924830abd8ec2ab8ea3878f60f125c15e47818e7aa",
- "size": 422521,
+ "version": "5.1.1",
+ "file": "hisab-app-5.1.1.json.gz",
+ "sha256": "0f4899abbb1fad729f02da55a2385458443a931b846af9329cc276fddbcad5e4",
+ "size": 422791,
  "minElectron": "44.0.0",
  "notes": {
-  "ar": "واجهة بيع عصرية: شاشة كاملة، سلة بأزرار + و −، زر «ادفع واطبع» كبير مع المبلغ، مربعات أصناف أنظف + تصليح بخانة الخصومات بالتقارير",
-  "he": "מסך מכירה מודרני: מסך מלא, סל עם + ו־−, כפתור «שלם והדפס» גדול, אריחי פריטים נקיים + תיקון בשורת ההנחות בדוחות",
-  "en": "Modern sales screen: full screen, cart with + / − steppers, big Pay & print button with the amount, cleaner item tiles + fix in report discounts"
+  "ar": "تصليح: ربح الزبون بملفه صار يتبع إعداد «الضريبة ما تنخصم من الربح» زي التقارير",
+  "he": "תיקון: הרווח בכרטיס הלקוח עוקב אחרי ההגדרה «מע״מ לא יורד מהרווח»",
+  "en": "Fix: customer profile profit now follows the 'tax not taken from profit' setting like the reports"
  },
- "date": "2026-11-22T23:04:12.993Z"
+ "date": "2026-11-23T17:20:00.383Z"
 }
