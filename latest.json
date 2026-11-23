@@ -1,13 +1,13 @@
 {
- "version": "5.3.0",
- "file": "hisab-app-5.3.0.json.gz",
- "sha256": "a8876dd5993f057f314e5fd0347ae8fbe1ed102d8a617aa91e1534dc35dbc132",
- "size": 426323,
+ "version": "5.3.1",
+ "file": "hisab-app-5.3.1.json.gz",
+ "sha256": "12c41f4d2f6e96541937257bab757cc58b8f17b0bca359d34cbc54f5349d29ae",
+ "size": 426527,
  "minElectron": "44.0.0",
  "notes": {
-  "ar": "الفيزا مفروزة حسب البنك (بنك فلسطين / هبوعليم): أزرار اختيار الماكنة بشاشة البيع، وبتسكيرة الصندوق، وبرسالة الوردية، وبالتقارير",
-  "he": "ויזה לפי בנק: כפתורי מסוף במסך המכירה, בסגירת קופה, בהודעת המשמרת ובדוחות",
-  "en": "Visa split by bank: machine buttons on the sales screen, in shift close, the shift message and reports"
+  "ar": "لوحة التحكم: «فيزا لم تصل للبنك بعد» صارت مفروزة لكل بنك",
+  "he": "לוח הבקרה: «ויזה שטרם הגיעה לבנק» מחולקת לפי בנק",
+  "en": "Dashboard: 'Visa not yet in the bank' split per bank"
  },
- "date": "2026-11-23T17:50:52.072Z"
+ "date": "2026-11-23T17:57:12.727Z"
 }
