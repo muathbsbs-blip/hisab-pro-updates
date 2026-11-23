@@ -1,13 +1,13 @@
 {
- "version": "5.2.0",
- "file": "hisab-app-5.2.0.json.gz",
- "sha256": "d34a33507a25e607459ba3a43a7e33eba846e177c3a6780bb66cf95f86df11d2",
- "size": 425185,
+ "version": "5.3.0",
+ "file": "hisab-app-5.3.0.json.gz",
+ "sha256": "a8876dd5993f057f314e5fd0347ae8fbe1ed102d8a617aa91e1534dc35dbc132",
+ "size": 426323,
  "minElectron": "44.0.0",
  "notes": {
-  "ar": "التقسيط بدون فاتورة: صار يسألك تكلفة البضاعة أو إذا هو دين قديم، عشان الربح والمبيعات يطلعوا صح + تنبيه بالتقارير للتقسيطات القديمة بدون تكلفة",
-  "he": "עסקת תשלומים בלי חשבונית: נשאל על עלות הסחורה או חוב ישן, כדי שהרווח והמכירות יהיו נכונים + התראה בדוחות",
-  "en": "Installments without an invoice: now asks the goods cost or marks an old debt, so profit and sales are right + a reports warning for old plans without a cost"
+  "ar": "الفيزا مفروزة حسب البنك (بنك فلسطين / هبوعليم): أزرار اختيار الماكنة بشاشة البيع، وبتسكيرة الصندوق، وبرسالة الوردية، وبالتقارير",
+  "he": "ויזה לפי בנק: כפתורי מסוף במסך המכירה, בסגירת קופה, בהודעת המשמרת ובדוחות",
+  "en": "Visa split by bank: machine buttons on the sales screen, in shift close, the shift message and reports"
  },
- "date": "2026-11-23T17:39:25.414Z"
+ "date": "2026-11-23T17:50:52.072Z"
 }
